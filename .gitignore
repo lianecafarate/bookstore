@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# VS Code editor
+.vscode/
+
+# Build output
+target/
+
+# Dependencies
+Dependencies.toml
